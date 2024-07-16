@@ -58,3 +58,4 @@ image_angle = direction;
 }
 }
 #endregion
+

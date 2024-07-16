@@ -18,9 +18,13 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_cameraPlayer","order":3,"path":"objects/obj_cameraPlayer/obj_cameraPlayer.yy",},
-    {"name":"obj_complementowall","order":2,"path":"objects/obj_complementowall/obj_complementowall.yy",},
+    {"name":"obj_ponnime","order":5,"path":"objects/obj_ponnime/obj_ponnime.yy",},
+    {"name":"obj_shoot","order":4,"path":"objects/obj_shoot/obj_shoot.yy",},
+    {"name":"obj_voceecurisos","order":6,"path":"objects/obj_voceecurisos/obj_voceecurisos.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
-    {"name":"spr_complementowall","order":1,"path":"sprites/spr_complementowall/spr_complementowall.yy",},
-    {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_ponnime","order":3,"path":"sprites/spr_ponnime/spr_ponnime.yy",},
+    {"name":"spr_shoot","order":2,"path":"sprites/spr_shoot/spr_shoot.yy",},
+    {"name":"spr_voceecurisos","order":4,"path":"sprites/spr_voceecurisos/spr_voceecurisos.yy",},
+    {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
